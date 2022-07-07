@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Jedisaur
 - 👀 I’m interested in Art, Programming
-- 🌱 I’m currently learning CSS, JS
 - 📫 How to reach me: send an email to fernandezaaron007@gmail.com
 
 <!---
