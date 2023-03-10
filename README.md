@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jedisaur
 - 👀 I’m interested in Art, Programming
-- 📫 How to reach me: send an email to fernandezaaron007@gmail.com
+- 📫 How to reach me: send an email to ajsf.fernandez@gmail.com
 
 <!---
 jedisaur/jedisaur is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
